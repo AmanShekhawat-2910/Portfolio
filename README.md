@@ -9,7 +9,6 @@ This project showcases my skills and contact information in a clean, responsive,
 - 🧑‍💻 About Me section with profile photo
 - ⚙️ Skills section (HTML, CSS, JS, C++, etc.)
 - 📞 Contact form with email integration
-- 💡 Fully responsive for all devices
 - 🌙 Dark mode (optional)
 - 📌 Smooth scroll navigation bar
 
@@ -24,8 +23,6 @@ This project showcases my skills and contact information in a clean, responsive,
 
 ## 🚀 Live Demo
 
-Check it out here 👉 [Your Live Link](https://yourname.github.io/portfolio)
+Check it out here 👉 [Your Live Link]((https://github.com/Amansinghshekhawat29/Portfolio.git))
 
-## 📁 Project Structure
 
-# Portfolio
